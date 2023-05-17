@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abdullah8006
-- 👀 I’m interested in full stack web development with Java and NodeJs
+- 👀 I’m interested in full stack web development and I love Java and NodeJs
 - 🌱 I’m currently learning Dart and Rust
 
 
